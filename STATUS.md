@@ -17,3 +17,4 @@
 | [1000](problems/1000) | [A+B](https://acmicpc.net/problem/1000) | ✅ 해결 | 2026-11-26 |  |
 | [25314](problems/25314) | [코딩은 체육과목 입니다](https://acmicpc.net/problem/25314) | ✅ 해결 | 2026-11-26 |  |
 | [10951](problems/10951) | [A+B - 4](https://acmicpc.net/problem/10951) | ✅ 해결 | 2026-11-26 |  |
+| [1152](problems/1152) | [단어의 개수](https://acmicpc.net/problem/1152) | 💡 참고 | 2026-11-26 | trim 후 빈 문자열일 때 split 결과가 길이 1이 되는 예외를 놓쳐서 반례 힌트 받음 |
