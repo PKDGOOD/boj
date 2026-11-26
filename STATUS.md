@@ -14,3 +14,4 @@
 | 문제 | 제목 | 상태 | 날짜 | 메모 |
 |---|---|---|---|---|
 | [2557](problems/2557) | [Hello World](https://acmicpc.net/problem/2557) | ✅ 해결 | 2026-11-26 |  |
+| [1000](problems/1000) | [A+B](https://acmicpc.net/problem/1000) | ✅ 해결 | 2026-11-26 |  |
