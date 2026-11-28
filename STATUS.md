@@ -25,3 +25,4 @@
 | [2738](problems/2738) | [행렬 덧셈](https://acmicpc.net/problem/2738) | ✅ 해결 | 2026-11-27 |  |
 | [2566](problems/2566) | [최댓값](https://acmicpc.net/problem/2566) | ✅ 해결 | 2026-11-28 |  |
 | [10818](problems/10818) | [최소, 최대](https://acmicpc.net/problem/10818) | ✅ 해결 | 2026-11-28 |  |
+| [25083](problems/25083) | [새싹](https://acmicpc.net/problem/25083) | ✅ 해결 | 2026-11-28 |  |
