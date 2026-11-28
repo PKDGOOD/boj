@@ -23,3 +23,4 @@
 | [2562](problems/2562) | [최댓값](https://acmicpc.net/problem/2562) | ✅ 해결 | 2026-11-26 |  |
 | [2577](problems/2577) | [숫자의 개수](https://acmicpc.net/problem/2577) | ✅ 해결 | 2026-11-27 | 막힘: 곱이 9자리일 때 div 오버플로우로 런타임 에러(반례 999 999 999) / 개선: %10, /=10 방식이나 문자열로 다시 풀어보기 |
 | [2738](problems/2738) | [행렬 덧셈](https://acmicpc.net/problem/2738) | ✅ 해결 | 2026-11-27 |  |
+| [2566](problems/2566) | [최댓값](https://acmicpc.net/problem/2566) | ✅ 해결 | 2026-11-28 |  |
