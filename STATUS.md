@@ -26,3 +26,4 @@
 | [2566](problems/2566) | [최댓값](https://acmicpc.net/problem/2566) | ✅ 해결 | 2026-11-28 |  |
 | [10818](problems/10818) | [최소, 최대](https://acmicpc.net/problem/10818) | ✅ 해결 | 2026-11-28 |  |
 | [25083](problems/25083) | [새싹](https://acmicpc.net/problem/25083) | ✅ 해결 | 2026-11-28 |  |
+| [10810](problems/10810) | [공 넣기](https://acmicpc.net/problem/10810) | ✅ 해결 | 2026-11-28 |  |
